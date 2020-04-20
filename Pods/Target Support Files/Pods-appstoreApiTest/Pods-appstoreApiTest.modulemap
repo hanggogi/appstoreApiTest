@@ -1,0 +1,6 @@
+module Pods_appstoreApiTest {
+  umbrella header "Pods-appstoreApiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
