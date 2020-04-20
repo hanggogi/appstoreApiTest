@@ -168,7 +168,6 @@
 		21CDF15F2447E38900CB3917 /* appstoreApiTest */ = {
 			isa = PBXGroup;
 			children = (
-				21CDF19B244808FF00CB3917 /* Model */,
 				21C8AB89244D2618009B4FE2 /* icon */,
 				21CDF1602447E38900CB3917 /* AppDelegate.swift */,
 				21CDF1622447E38900CB3917 /* SceneDelegate.swift */,
@@ -204,6 +203,7 @@
 		21CDF1962447EE4C00CB3917 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				21CDF19B244808FF00CB3917 /* Model */,
 				21CDF1982447F3E600CB3917 /* Cell */,
 			);
 			path = View;
@@ -232,8 +232,7 @@
 			children = (
 				21C8AB9E244D5B0C009B4FE2 /* resultVO.swift */,
 			);
-			name = Model;
-			path = View/Model;
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
